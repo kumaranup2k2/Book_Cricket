@@ -63,7 +63,7 @@ class cricket:
 
 if __name__ == "__main__":
     try:
-        file = open("C:/Users/ANUP KUMAR/OneDrive/Desktop/Book Cricket/Cricket/Score_Board.txt","w+")#text file location
+        file = open("make.txt \file\with\the\name\of\score_board\and\paste\the\file\location\like\this","w+")#text file location
 
         new_match = cricket()
 
